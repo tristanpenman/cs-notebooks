@@ -2,6 +2,7 @@ name: fastai
 channels:
   - defaults
 dependencies:
+  - imageio=2.3.0
   - jupyter=1.0.0
   - keras=2.1.5
   - matplotlib=2.2.2
